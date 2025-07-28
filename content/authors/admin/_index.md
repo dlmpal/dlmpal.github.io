@@ -26,7 +26,7 @@ profiles:
     url: 'mailto:mc19054@mail.ntua.gr'
     label: E-mail Me
   - icon: brands/linkedin
-    url: www.linkedin.com/in/dimitris-pallas-5b6408316
+    url: https://linkedin.com/in/dimitris-pallas-5b6408316
   - icon: brands/github
     url: https://github.com/dlmpal
 
