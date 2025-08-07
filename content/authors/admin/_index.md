@@ -17,7 +17,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Computational Scientist - Software Engineer
+role: Computational Engineer
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -36,10 +36,10 @@ interests:
   - Multiphysics
 
 education:
-  - area: MPhil in Scientific Computing (in progress)
-    institution: University of Cambridge
-    date_start: Oct 2025
-    date_end: Aug 2026
+  # - area: MPhil in Scientific Computing (in progress)
+  #   institution: University of Cambridge
+  #   date_start: Oct 2025
+  #   date_end: Aug 2026
 
   - area: Diploma in Mechanical Engineering
     institution: National Technical University of Athens
@@ -89,4 +89,6 @@ skills:
 
 ---
 <!-- ## About Me -->
-I am a mechanical engineering graduate from the National Technical of Athens, where I focused on computational methods and optimization. The subject of my diploma thesis was Multidisciplinary Analysis and Optimization (MDAO), more specifically as it relates to aerostructural and Fluid-Structure Interaction (FSI) problems. Currently, I am an incoming student at the University of Cambridge for the MPhil in Scientific Computing. 
+I am a mechanical engineering graduate from the National Technical University of Athens, where I focused on computational methods and optimization. The subject of my diploma thesis was Multidisciplinary Analysis and Optimization (MDAO), more specifically as it relates to aerostructural and Fluid-Structure Interaction (FSI) problems. 
+
+<!-- Currently, I am an incoming student at the University of Cambridge for the MPhil in Scientific Computing.  -->

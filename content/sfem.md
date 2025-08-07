@@ -30,10 +30,16 @@ sections:
         costant pressure value acting on its inner wall.The mesh is partitioned 
         among 8 processes using METIS and the resulting linear system is solved 
         using PETSc's Conjugate Gradient solver.
+        
+        <figure>
         <img src="/sfem/partition_plot.png" width="800" height="400">
         <figcaption>Spherical shell problem: Element partition plot</figcaption>
+        </figure>
+        
+        <figure>
         <img src="/sfem/disp_mag_plot.png" width="800" height="400">
         <figcaption>Spherical shell problem: Displacement magnitude plot</figcaption>
+        </figure>
 
   - block: markdown
     id: sfem-example-2
@@ -44,8 +50,10 @@ sections:
         The two-dimensional linearized Euler equations are discretized in space using the finite-volume method
         and integrated in time with a fourth-order Runge-Kutta integrator. The interface fluxes are reconstructed
         using Rusanov's scheme. A monopole source is located at the center of the rectangular domain.
+        <figure>
         <img src="/sfem/euler_vel_x.gif" width="800" height="400">
         <figcaption> Linear accoustics problem: Contours of the x-velocity component</figcaption> 
+        </figure>
 
   - block: markdown
     id: sfem-example-3
@@ -57,8 +65,11 @@ sections:
         a Laplace equation is solved for the velocity potential. The velocity field, 
         defined as the gradient of the potential, is then projected onto the same Continuous Galerkin
         space using a L2 projection.
+        
+        <figure>
         <img src="/sfem/solution_gradient.png" width="800" height="400">
         <figcaption>Potential flow problem: Velocity field magnitude and direction plot</figcaption>
+        </figure>
 
   - block: markdown
     id: sfem-example-4
@@ -69,6 +80,9 @@ sections:
         which is fully fixed on one end. The beam is discretized using second-order tetrahedral elements and 
         the resulting eigenproblem is solved using SLEPc. For validation, the resulting frequencies are compared 
         with those provided by beam theory. 
+
+        <figure>
         <img src="/sfem/modes_plot.png" width="800" height="400">
         <figcaption> Beam Modal Analysis: Plots of the first four eigenmodes of the beam</figcaption> 
+        </figure>
 ---

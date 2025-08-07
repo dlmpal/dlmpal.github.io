@@ -8,6 +8,7 @@
       "circle",
       "div",
       "figcaption",
+      "figure",
       "footer",
       "h1",
       "h2",
@@ -223,6 +224,7 @@
       "z-50"
     ],
     "ids": [
+      "aerostructural-wing-optimization-example",
       "hide-button",
       "moon",
       "msense-intro",
@@ -242,6 +244,7 @@
       "show-button",
       "site-header",
       "sun",
+      "supported-mdo-architectures",
       "top",
       "weldsim-intro"
     ]
