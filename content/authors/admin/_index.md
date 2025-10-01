@@ -23,12 +23,12 @@ role: Computational Engineer
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:mc19054@mail.ntua.gr'
+    url: 'mailto:dp761@cam.ac.uk'
     label: E-mail Me
   - icon: brands/linkedin
-    url: https://linkedin.com/in/dimitris-pallas-5b6408316
+    url: https://www.linkedin.com/in/dimitris-p-5b6408316/
   - icon: brands/github
-    url: https://github.com/dlmpal
+    url: https://github.com/dlmpal/
 
 interests:
   - Scientific and parallel computing

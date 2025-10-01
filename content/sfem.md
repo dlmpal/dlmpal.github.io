@@ -14,7 +14,7 @@ sections:
     content:
       title: SFEM
       text: |
-        [SFEM](https://github.com/dlmpal/sfem) is a C++ framework for the solution of Partial Differential Equations on unstructured meshes, using the Finite Element and Finite Volume methods. It supports distributed memory parallelism via the MPI protocol. SFEM utilizes PETSc for sparse linear algebra computations, and METIS for mesh partitioning. SLEPc is an optional dependency, which enables the computation of eigenvalues of discretized operators.
+        [SFEM](https://github.com/dlmpal/sfem) is a C++ framework for the solution of Partial Differential Equations on unstructured meshes, using the Finite Element and Finite Volume methods. It supports distributed memory parallelism via the MPI protocol. SFEM utilizes METIS for mesh partitioning, and, optionally, PETSc and SLEPc can be used for solving linear and eigenproblems respectively. However, an iterative linear solver suite is also included natively with SFEM.
 
         Below are a few examples detailing the current capabilities of SFEM. The code for these examples will be added soon.
 
