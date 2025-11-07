@@ -36,6 +36,17 @@ interests:
   - Multiphysics
 
 education:
+  - area: MPhil in Scientific Computing
+    institution: University of Cambridge
+    date_start: Oct. 2025
+    date_end: Aug. 2026
+    summary: |
+      In progress...
+      
+      Relevant coursework:
+      - Computational methods and Optimization
+      - Aerodynamics and Aeroelasticity
+      - Multiphase flows and transport phenomena
   - area: Diploma in Mechanical Engineering
     institution: National Technical University of Athens
     date_start: Sept 2019
@@ -84,4 +95,4 @@ skills:
 
 ---
 <!-- ## About Me -->
-I am a mechanical engineering graduate from the National Technical University of Athens, where I focused on computational methods and optimization. The subject of my diploma thesis was Multidisciplinary Analysis and Optimization (MDAO), more specifically as it relates to aerostructural and Fluid-Structure Interaction (FSI) problems. 
+I am a mechanical engineering graduate from the National Technical University of Athens, where I focused on computational methods and optimization. The subject of my diploma thesis was Multidisciplinary Analysis and Optimization (MDAO), more specifically as it relates to aerostructural and Fluid-Structure Interaction (FSI) problems. Currently, I am a student at the University of Cambridge for the MPhil in Scientific Computing.
