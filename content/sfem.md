@@ -99,7 +99,7 @@ sections:
         second-order Runge-Kutta integrator. A uniform mesh of 2056 cells in each direction is used, 
         and the program is executed with 32 MPI processes.
         <figure>
-        <img src="/sfem/riemann2d.gif/" width="800" height="400">
+        <img src="/sfem/riemann2d.gif" width="800" height="400">
         <figcaption> 2D Riemann Problem: Density field evolution </figcaption>
         </figure>
 
@@ -110,7 +110,7 @@ sections:
         size 64x64x8 is used, and the program is executed with 4 MPI processes. This is essentially the same physical
         problem solved by <a href="/weldsim/"> WELDSIM </a>.
         <figure>
-        <img src="/sfem/diffusion.gif/" width="800" height="400">
+        <img src="/sfem/diffusion.gif" width="800" height="400">
         <figcaption> Nonlinear Heat Equation: Temperature field evolution </figcaption>
         </figure> 
 ---
